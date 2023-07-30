@@ -1,0 +1,14 @@
+# Carpeta de dependencias generadas por npm o Yarn
+node_modules/
+
+# Archivos de compilación o resultados de compilación
+build/
+build-esm/
+build-cjs/
+
+# Archivos de entorno local
+.env
+.env.local
+.env.*.local
+
+# Cualquier otro archivo o carpeta específica que quieras ignorar
